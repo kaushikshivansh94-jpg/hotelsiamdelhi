@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(to bottom, #020617, #111827);
+  color: white;
+  overflow-x: hidden;
+  font-family: var(--font-body);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+}
+
+button {
+  transition: all 0.3s ease;
+}
+
+img {
+  transition: all 0.5s ease;
+}
