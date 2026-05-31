@@ -447,7 +447,7 @@ export default function Home() {
 
               <p className="flex items-center gap-3">
                 <Mail className="text-yellow-400" />
-                hotelsiamdelhi@gmail.com
+                hotelsiamdelhi.v1@gmail.com
               </p>
 
               <p className="flex items-center gap-3">
@@ -482,7 +482,7 @@ export default function Home() {
       {/* WHATSAPP BUTTON */}
 
       <a
-        href="https://wa.me/919899755518"
+        href="https://wa.me/919811755518"
         target="_blank"
         className="fixed bottom-6 right-6 bg-green-500 px-6 py-4 rounded-full font-bold shadow-2xl hover:scale-110 transition"
       >
